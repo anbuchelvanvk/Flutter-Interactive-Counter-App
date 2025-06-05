@@ -3,10 +3,10 @@
 A Flutter-based counter app that visually transforms the background color and displays emoji-based feedback based on user interaction.
 
 **📌 Features**
-✔️ Tap anywhere to increment the counter
-✔️ Background color updates dynamically based on counter value
-✔️ Text feedback changes depending on counter progress
-✔️ Uses Flutter's GestureDetector for seamless interaction
+- Tap anywhere to increment the counter
+- Background color updates dynamically based on counter value
+- Text feedback changes depending on counter progress
+- Uses Flutter's GestureDetector for seamless interaction
 
 **🎨 How It Works?**
 - The counter starts at 0.
