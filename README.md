@@ -58,7 +58,8 @@ sh``flutter run``
 ![Screenshot 2025-06-05 175003](https://github.com/user-attachments/assets/4bda34ae-4ffa-454d-93ed-928cb30951f3)
 
 
-7. Screen when the Number of Clicks is above 5 :
+4. Screen when the Number of Clicks is above 5 :
+   
 ![Screenshot 2025-06-05 175017](https://github.com/user-attachments/assets/fd19fef0-2fc3-4500-8de0-5c5d327aff51)
 
 
