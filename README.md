@@ -44,15 +44,21 @@ sh``flutter run``
   
 **📸 App Screenshot**
 1. Screen when the Number of Clicks is 0 :
+   
 ![Screenshot 2025-06-05 174937](https://github.com/user-attachments/assets/7e41b75a-c6a2-4ea4-9760-12d85ffb2dd6)
 
+
 2. Screen when the Number of Clicks is 1 :
+   
 ![Screenshot 2025-06-05 174949](https://github.com/user-attachments/assets/701b3741-ac47-47a6-b629-b6f7878032b8)
 
+
 3. Screen when the Number of Clicks is 3 :
+   
 ![Screenshot 2025-06-05 175003](https://github.com/user-attachments/assets/4bda34ae-4ffa-454d-93ed-928cb30951f3)
 
-4. Screen when the Number of Clicks is above 5 :
+
+7. Screen when the Number of Clicks is above 5 :
 ![Screenshot 2025-06-05 175017](https://github.com/user-attachments/assets/fd19fef0-2fc3-4500-8de0-5c5d327aff51)
 
 
